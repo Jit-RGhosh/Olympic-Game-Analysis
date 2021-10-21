@@ -6,3 +6,24 @@ The IOC retrospectively awarded gold, silver, and bronze to athletes based on th
 In this analysis and visualization of the dataset consisting both the summer and winter games data is performed. 
 Which Olympic athletes have the most gold medals?
 Which countries are they from and how has it changed over time?
+
+
+# Libraries used:
+
+1) Pandas
+2) Numpy
+3) Seaborn
+4) Plotly
+5) Matplotlib
+
+
+# Steps Involved
+1. Data Import
+2. EDA (Summer Olympics Dataset: Most Successful Athletes)
+3. EDA (Visualize medal Distribution in top countries)
+4. EDA (Winter Olympics Dataset: Most Successful Athletes)
+3. EDA (Visualize medal Distribution in top countries)
+
+# The Data:
+
+The dataset consists of various columns like "Year", "City", "Sport", "Discipline", "Athlete", "Country", "Gender" to name a few.It includes a row for every Olympic athlete that has won a medal since the first games. Data was provided by the IOC Research and Reference Service and published by The Guardian's Data blog.
